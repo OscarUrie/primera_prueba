@@ -1,4 +1,4 @@
-# Ejemplo página web
+Ejemplo página web
 ================
 Es un proyecto de prueba web
 ----------------------------
